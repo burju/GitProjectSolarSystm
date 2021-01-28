@@ -14,6 +14,9 @@ public class Main {
         troyo.radius= "12343234 km";
         troyo.temperature= 123244243;
 
+        planet1 planet1= new planet1();
+        planet1.color="red";
+        planet1.radius= "5675432km";
     }
 
 }
