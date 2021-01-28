@@ -10,10 +10,10 @@ public class Main {
         solarSystem01.planets=3;
 
         SUN troyo= new SUN();
-        troyo.heat= "12344323";
-        troyo.radius= "12343234";
+        troyo.heat= "12344323celcius";
+        troyo.radius= "12343234 km";
         troyo.temperature= 123244243;
-        
+
     }
 
 }
